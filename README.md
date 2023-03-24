@@ -16,3 +16,10 @@ SO THAT our own site is optimized for search engines
 4. WHEN I view the heading attributes THEN they fall in sequential order
 5. WHEN I view the title element THEN I find a concise, descriptive title
 
+
+#### Website Link and Screenshot
+![Website Display](https://ucdavis.bootcampcontent.com/ucdavis-boot-camp/UCD-VIRT-FSF-PT-03-2023-U-LOLC/-/raw/main/01-HTML-Git-CSS/02-Challenge/Assets/01-html-css-git-homework-demo.png)
+
+Live Link https://i-kare.github.io/BootcampChallenge1/
+
+
