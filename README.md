@@ -1,5 +1,5 @@
-# BootcampChallenge1
-BootCamp Challenge 1 
+# Code Refactor
+ Web accessibility
 
 ## Description
 AS A marketing agency
