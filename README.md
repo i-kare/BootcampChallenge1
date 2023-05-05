@@ -20,6 +20,6 @@ SO THAT our own site is optimized for search engines
 #### Website Link and Screenshot
 ![Website Display](/assets/images/screenshot.png)
 
-Live Link https://i-kare.github.io/BootcampChallenge1/
+Live Link https://i-kare.github.io/Code-Refactor/
 
 
